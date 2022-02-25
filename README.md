@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Demo Gif](https://gfycat.com/totalwindingibadanmalimbe.gif)
+![Demo Gif](https://thumbs.gfycat.com/TotalWindingIbadanmalimbe-mobile.mp4)
 
 # Twitter - Part I
 

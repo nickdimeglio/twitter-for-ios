@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Demo Gif](https://thumbs.gfycat.com/HappyFeistyAmericanbulldog-mobile.mp4)
+![Demo Gif](https://gfycat.com/totalwindingibadanmalimbe.mp4)
 
 # Twitter - Part I
 

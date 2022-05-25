@@ -1,6 +1,6 @@
 # Twitter - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a twitter iOS app to view, compose, favorite, and retweet tweets.
 
 ## User Stories
 
@@ -16,13 +16,4 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-https://gfycat.com/totalwindingibadanmalimbe
-![Demo Gif](https://thumbs.gfycat.com/TotalWindingIbadanmalimbe-mobile.mp4)
-
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![Demo Gif](https://media.giphy.com/media/bOAVV7eHNkZzsu0314/giphy.gif)
+![Demo Gif](https://media.giphy.com/media/ZRoO3PtfrIVVp1UKuP/giphy.gif)

@@ -18,6 +18,8 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 https://gfycat.com/totalwindingibadanmalimbe
+![Demo Gif](https://thumbs.gfycat.com/TotalWindingIbadanmalimbe-mobile.mp4)
+
 
 ## Video Walkthrough
 
